@@ -1,0 +1,31 @@
+# Dependencies
+frontend/node_modules/
+frontend/.next/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/.venv/
+backend/venv/
+
+# Environment files
+backend/.env
+frontend/.env.local
+frontend/.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build
+frontend/out/
+*.pyc
+*.pyo
+
+# Static uploads
+backend/static/resume.pdf
