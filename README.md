@@ -2,6 +2,10 @@
 
 A modern, dark-mode portfolio showcasing Faiz Ur Rehman Ashrafi's journey as an emerging Agentic AI & Machine Learning Engineer.
 
+**[Preview Portfolio Website on Vercel](https://portfolio-rho-nine-ukbafoubtm.vercel.app/)**  
+
+![Preview Portfolio UI SnapShot](https://github.com/faiz0304/Portfolio/blob/main/frontend/portfolio-UI-Snapshot.png))
+
 ## Tech Stack
 
 | Layer | Technology |
@@ -69,6 +73,13 @@ portfolio/
 
 **Backend**: Container-ready via `uvicorn main:app --host 0.0.0.0 --port 8000`. Configure `ALLOWED_ORIGINS` env var for production CORS.
 
+## LINKS
+
+**[YouTube-Faiz Codes AI](https://youtube.com/@faizcodesai)**  
+**[GitHub](https://github.com/faiz0304)**  
+**[LinkedIn](https://linkedin.com/in/faiz-ur-rehman-ashrafi)** 
+
 ## License
+Feel Free to Use
 
 © 2026 Faiz Ur Rehman Ashrafi. All rights reserved.
