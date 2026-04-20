@@ -173,7 +173,7 @@ export const profile = {
 
   contact: {
     email: "faizashrafi0304@gmail.com",
-    linkedin: "https://linkedin.com/in/faiz-ur-rehman-ashrafi",
+    linkedin: "https://www.linkedin.com/in/faiz-ur-rehman-ashrafi-75b7203a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     github: "https://github.com/faiz0304",
     youtube: "https://youtube.com/@FaizCodesAI",
   },
