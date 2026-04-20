@@ -2,7 +2,7 @@ export const profile = {
   name: "Faiz Ur Rehman Ashrafi",
   role: "Emerging Agentic AI & Machine Learning Engineer",
   tagline: "Electronics Engineering Graduate · AI Entrepreneur · Builder",
-  image: "/images/profile.jpeg",
+  image: "/images/profile.png",
 
   summary:
     "Motivated Electronics Engineering Technology graduate transitioning into Agentic AI & Machine Learning. Strong academic performance (CGPA 3.96) with hands-on exposure to programming, AI systems, and technical problem-solving. Focused on building a career as an Agentic AI and Machine Learning Engineer while developing scalable real-world applications.",
